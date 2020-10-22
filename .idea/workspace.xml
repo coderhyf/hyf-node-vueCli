@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68fa14a5-4b97-4dca-9510-1048aefe7afd" name="Default Changelist" comment="第一次提交">
-      <change beforePath="$PROJECT_DIR$/.idea/cli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cli.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="68fa14a5-4b97-4dca-9510-1048aefe7afd" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
@@ -31,9 +28,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,7 +91,7 @@
       <workItem from="1603345934387" duration="2795000" />
       <workItem from="1603348954241" duration="1071000" />
       <workItem from="1603351149256" duration="171000" />
-      <workItem from="1603353115464" duration="1441000" />
+      <workItem from="1603353115464" duration="3242000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1603351171031</created>
@@ -90,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603351171031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1603355025850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603355025850</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,16 +128,33 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="220" y="116" key="Vcs.Push.Dialog.v2" timestamp="1603354712441">
+    <state x="100" y="123" width="1240" height="632" key="VCS.FileHistoryDialog" timestamp="1603356334574">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="220" y="116" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1603354712441" />
+    <state x="100" y="123" width="1240" height="632" key="VCS.FileHistoryDialog/0.23.1440.832@0.23.1440.832" timestamp="1603356334574" />
+    <state x="220" y="116" key="Vcs.Push.Dialog.v2" timestamp="1603356432349">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="220" y="116" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1603356432349" />
+    <state x="505" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603356063186">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="505" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.832@0.23.1440.832" timestamp="1603356063186" />
+    <state x="429" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603356644089">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="429" y="314" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.832@0.23.1440.832" timestamp="1603356644089" />
     <state x="544" y="328" key="git4idea.ui.GitStashDialog" timestamp="1603353805197">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="544" y="328" key="git4idea.ui.GitStashDialog/0.23.1440.832@0.23.1440.832" timestamp="1603353805197" />
+    <state x="522" y="269" key="git4idea.ui.GitTagDialog" timestamp="1603356580623">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="522" y="269" key="git4idea.ui.GitTagDialog/0.23.1440.832@0.23.1440.832" timestamp="1603356580623" />
   </component>
 </project>
