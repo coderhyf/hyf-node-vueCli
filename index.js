@@ -6,5 +6,5 @@ const createCommands = require('./lib/core/create');
 program.version (require ('./package.json').version);
 helpOptions ();
 createCommands();
-// 解析在控制台显示打印什么
+// 解析在控制台显示打印什么aaaa
 program.parse (process.argv);
