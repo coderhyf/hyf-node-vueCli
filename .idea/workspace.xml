@@ -7,23 +7,44 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68fa14a5-4b97-4dca-9510-1048aefe7afd" name="Default Changelist" comment="加上aaa">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/templates/vue-component.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/templates/vue-router.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/templates/vue-store.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/templates/vue-types.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utlis/terminal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utlis/utlis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config/repo-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/config/repo-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,6 +72,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lib/core/actions.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1jDQ9QuIw38e87rZZ3hYLe05sTE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,8 +85,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.13.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.2" />
@@ -74,9 +100,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib/core" />
     </key>
@@ -96,6 +127,12 @@
       <workItem from="1603351149256" duration="171000" />
       <workItem from="1603353115464" duration="3242000" />
       <workItem from="1603419369681" duration="277000" />
+      <workItem from="1603586598873" duration="9504000" />
+      <workItem from="1603597371206" duration="29000" />
+      <workItem from="1603597413096" duration="16000" />
+      <workItem from="1603597432261" duration="22000" />
+      <workItem from="1603597463464" duration="12000" />
+      <workItem from="1603597483743" duration="6122000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1603351171031</created>
@@ -129,7 +166,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -144,10 +193,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="加上aaa" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="350" y="110" key="#Inspections" timestamp="1603587884493">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="350" y="110" key="#Inspections/0.23.1440.832@0.23.1440.832" timestamp="1603587884493" />
     <state x="440" y="231" key="#Notifications" timestamp="1603419380652">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="440" y="231" key="#Notifications/0.23.1440.832@0.23.1440.832" timestamp="1603419380652" />
+    <state x="100" y="123" width="1240" height="632" key="DiffContextDialog" timestamp="1603429917614">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="100" y="123" width="1240" height="632" key="DiffContextDialog/0.23.1440.832@0.23.1440.832" timestamp="1603429917614" />
+    <state x="119" y="23" key="SettingsEditor" timestamp="1603432913851">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="119" y="23" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1603432913851" />
     <state x="100" y="123" width="1240" height="632" key="VCS.FileHistoryDialog" timestamp="1603356334574">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -172,5 +233,9 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="522" y="269" key="git4idea.ui.GitTagDialog/0.23.1440.832@0.23.1440.832" timestamp="1603356580623" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1603592981747">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1603592981747" />
   </component>
 </project>
